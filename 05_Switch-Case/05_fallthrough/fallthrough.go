@@ -1,3 +1,4 @@
+//use of fallthrough in switch
 package main
 
 import "fmt"
